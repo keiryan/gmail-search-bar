@@ -19,7 +19,7 @@ export const Form = styled.form`
   }
 
   :focus-within ${SVG} {
-    fill: #000;
+    fill: #474747;
   }
 `;
 
