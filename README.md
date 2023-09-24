@@ -1,6 +1,6 @@
 # Gmail Search bar 
 
-A search bar, done Gmail style. 📧✉️
+A search bar, done Gmail style. 📧✉️🔎
 
 🧑‍💻 Live demo here: https://gmail-search-bar.vercel.app/
 
